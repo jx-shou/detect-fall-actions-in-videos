@@ -1,6 +1,6 @@
-## Recognizing Fall Actions from Videos using Reconstruction Error of Variational Auto-encoder 
+# Recognizing Fall Actions from Videos using Reconstruction Error of Variational Auto-encoder 
 
-### Motivation
+## Motivation
 * Demands of stable fall-detecting systems are increasing. 
 * The performance of supervised learning networks depends on abundant well-labeled data, but fall action data is scarce and lacks labels.
 * We would like to take good use of abundant Activity of Daily Life (ADL) data by using an unsupervised learning method. 
