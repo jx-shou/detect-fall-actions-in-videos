@@ -26,4 +26,15 @@
 * By applying region extraction technique, ResVAEs with cropped data can focus on learning motion information and obtained better performance than those without cropped data. 
 <div align=center><img src="./png/result_figure.png" width="400"/></div>
 
+## Citation
+"""
+@inproceedings{zhou2019recognizing,
+  title={Recognizing fall actions from videos using reconstruction error of variational autoencoder},
+  author={Zhou, Jiaxin and Komuro, Takashi},
+  booktitle={2019 IEEE International Conference on Image Processing (ICIP)},
+  pages={3372--3376},
+  year={2019},
+  organization={IEEE}
+}
+"""
 
