@@ -7,11 +7,11 @@
 
 ## Classification using the reconstruction error of VAE
 * We propose a network for learning a distribution of ADL data using a variational auto-encoder (VAE) with 3D-convolutional residual blocks.
-![image](./png/overview.png)
-<img src="./png/overview.png" width="950">
+<div align=center><img src="./png/overview.png" width="950">
 * After training is finished, most reconstruction errors of ADL samples are limited within a certain range. In contrast, the reconstruction errors of abnormal samples should be greater than that range. 
 * We assume that an unknown sample is classified as falling if its normalized reconstructed error is larger than a threshold.
 ![image](./png/samples.png)
+<img src="./png/samples.png" width="500">
 
 ## Region extraction for focusing on learning human motions
 * Since the ratio of the human region to the entire image is too low, the neural networks cannot sufficiently learn motion information. 
