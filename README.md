@@ -21,6 +21,6 @@
 * Unsupervised ResVAEs with cropped data had better performance than standard ResNets with cropped data, which showed ResVAEs can overcome imbalance of ADL data and fall action data.
 <div align=center><img src="./png/result_table.png" width="800"/></div>
 * By applying region extraction technique, ResVAEs with cropped data can focus on learning motion information and obtained better performance than those without cropped data. 
-<div align=center><img src="./png/result_figure.png" width="600"/></div>
+<div align=center><img src="./png/result_figure.png" width="500"/></div>
 
 
