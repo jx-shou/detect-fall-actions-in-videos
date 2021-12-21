@@ -27,7 +27,7 @@
 <div align=center><img src="./png/result_figure.png" width="400"/></div>
 
 ## Citation
-"""
+```
 @inproceedings{zhou2019recognizing,
   title={Recognizing fall actions from videos using reconstruction error of variational autoencoder},
   author={Zhou, Jiaxin and Komuro, Takashi},
@@ -36,5 +36,5 @@
   year={2019},
   organization={IEEE}
 }
-"""
+```
 
