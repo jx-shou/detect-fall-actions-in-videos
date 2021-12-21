@@ -10,7 +10,7 @@
 <div align=center><img src="./png/overview.png" width="950"/></div>
 
 * After training is finished, most reconstruction errors of ADL samples are limited within a certain range. In contrast, the reconstruction errors of abnormal samples should be greater than that range. 
-* 
+
 * We assume that an unknown sample is classified as falling if its normalized reconstructed error is larger than a threshold.
 <div align=center><img src="./png/samples.png" width="400"/></div>
 
