@@ -7,7 +7,7 @@
 
 ## Classification using the reconstruction error of VAE
 * We propose a network for learning a distribution of ADL data using a variational auto-encoder (VAE) with 3D-convolutional residual blocks.
-<div align=center><img src="./png/overview.png" width="950"/></div>
+<div align=center><img src="./png/overview.png" width="90"/></div>
 
 * After training is finished, most reconstruction errors of ADL samples are limited within a certain range. In contrast, the reconstruction errors of abnormal samples should be greater than that range. 
 
@@ -21,12 +21,13 @@
 
 ## Experimental results
 * Unsupervised ResVAEs with cropped data had better performance than standard ResNets with cropped data, which showed ResVAEs can overcome imbalance of ADL data and fall action data.
-<div align=center><img src="./png/result_table.png" width="800"/></div>
+<div align=center><img src="./png/result_table.png" width="750"/></div>
 
 * By applying region extraction technique, ResVAEs with cropped data can focus on learning motion information and obtained better performance than those without cropped data. 
 <div align=center><img src="./png/result_figure.png" width="400"/></div>
 
 ## Citation
+[ICIP2019](https://ieeexplore.ieee.org/abstract/document/8803671)
 ```
 @inproceedings{zhou2019recognizing,
   title={Recognizing fall actions from videos using reconstruction error of variational autoencoder},
