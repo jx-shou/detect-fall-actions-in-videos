@@ -27,7 +27,7 @@
 <div align=center><img src="./png/result_figure.png" width="400"/></div>
 
 ## Citation
-[ICIP2019](https://ieeexplore.ieee.org/abstract/document/8803671)
+ICIP 2019 [[link](https://ieeexplore.ieee.org/abstract/document/8803671)]
 ```
 @inproceedings{zhou2019recognizing,
   title={Recognizing fall actions from videos using reconstruction error of variational autoencoder},
