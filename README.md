@@ -7,7 +7,7 @@
 
 ## Classification using the reconstruction error of VAE
 * We propose a network for learning a distribution of ADL data using a variational auto-encoder (VAE) with 3D-convolutional residual blocks.
-<div align=center><img src="./png/overview.png" width="90"/></div>
+<div align=center><img src="./png/overview.png" width="900"/></div>
 
 * After training is finished, most reconstruction errors of ADL samples are limited within a certain range. In contrast, the reconstruction errors of abnormal samples should be greater than that range. 
 
