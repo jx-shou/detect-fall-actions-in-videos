@@ -18,7 +18,7 @@ if not os.path.exists('./conv_vae_img'):
 
 
 batch_size = 32
-dataset = FallDataset('./dir/dataset_name')
+dataset = FallDataset('./dataset_dir/dataset_name')
 dataloader = DataLoader(dataset, shuffle=True, batch_size=batch_size)
 
 
